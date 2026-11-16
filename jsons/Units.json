@@ -62,7 +62,6 @@
 		"movement": 4,
 		"strength": 10,
 		"cost": 45,
-		"uniqueTo": "Athens",
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"upgradesTo": "Caravel",
