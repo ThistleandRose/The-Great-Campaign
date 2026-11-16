@@ -5,7 +5,7 @@
 	/* Ancient Era */
 	{
 		"name": "Worker",
-		"unitType": "Copper Working",
+		"unitType": "Civilian",
 		"movement": 2,
 		"requiredTech": "Sedentary Lifestyle",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
