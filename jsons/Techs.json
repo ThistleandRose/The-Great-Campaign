@@ -87,17 +87,67 @@
 			{
 				"name": "Primative Cavalry",
 				"row": 5,
-				"uniques": ["Mining"]
+				"prerequisites": ["Pack animals"],
 			}
 			{
 				"name": "Writing",
 				"row": 8,
-				"uniques": ["Mining"]
+				"prerequisites": ["Cave art"],
 			}
 			
 		]
 	},
 
+{
+		"columnNumber": 5,
+		"era": "Bronze age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Bronze smithing",
+				"row": 6,
+				"prerequisites": ["Copper working"],
+			}
+			{
+				"name": "Mathematics",
+				"row": 8,
+				"prerequisites": ["Writing"],
+			}
+			{
+				"name": "Masonry",
+				"row": 4,
+				"prerequisites": ["Mining"],
+			}
+			
+		]
+	},
 
+{
+		"columnNumber": 6,
+		"era": "Bronze age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Currency",
+				"row": 6,
+				"prerequisites": ["Bronze smithing", "Mathematics"],
+			}
+			{
+				"name": "Construction",
+				"row": 4,
+				"prerequisites": ["Masonry"],
+			}
+			{
+				"name": "Philosophy",
+				"row": 8,
+				"prerequisites": ["Mathematics"],
+			}
+			
+		]
+	},
 
 ]
