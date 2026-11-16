@@ -10,7 +10,6 @@
 				"name": "Agriculture",
 				"row": 6,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
-				"uniques": ["Starting tech"]
 			}
 		]
 	},
@@ -36,7 +35,6 @@
 			{
 				"name": "Archery",
 				"row": 7,
-				"prerequisites": ["Agriculture"],
 				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
 			},
 			{
