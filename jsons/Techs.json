@@ -82,17 +82,17 @@
 			{
 				"name": "Copper Working",
 				"row": 6,
-				"uniques": ["Mining"]
+				"prerequisites": ["Mining"],
 			}
 			{
 				"name": "Primative Cavalry",
 				"row": 5,
-				"uniques": ["Pack animals"]
+				"uniques": ["Mining"]
 			}
 			{
 				"name": "Writing",
 				"row": 8,
-				"uniques": ["Cave art"]
+				"uniques": ["Mining"]
 			}
 			
 		]
