@@ -21,8 +21,13 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Agriculture",
+				"name": "Cereal cultivation",
 				"row": 6,
+				"prerequisites": ["Sedentary Lifestyle"],
+			}
+			{
+				"name": "Animal pastoralism",
+				"row": 5,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			{
@@ -31,7 +36,7 @@
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			{
-				"name": "Astrology",
+				"name": "Advanced stone working",
 				"row": 2,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
@@ -39,12 +44,32 @@
 				"name": "Cave art",
 				"row": 8,
 				"prerequisites": ["Sedentary Lifestyle"],
-			}
-			
-
-
-		
+			}	
 		]
 	},
+	{
+		"columnNumber": 2,
+		"era": "Neolithic",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Pack animals",
+				"row": 5,
+				"prerequisites": ["Animal pastoralism"],
+			}
+			{
+				"name": "Mining",
+				"row": 6,
+				"prerequisites": ["Advanced stone working","Cave art"],
+			}	
+			{
+				"name": "Irrigation & Terraforming",
+				"row": 4,
+				"prerequisites": ["Advanced stone working","Cereal cultivation"],
+			}	
+		]
+	},	
 
 ]
