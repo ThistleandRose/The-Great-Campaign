@@ -70,6 +70,34 @@
 				"prerequisites": ["Advanced stone working","Cereal cultivation"],
 			}	
 		]
-	},	
+	},
+
+	{
+		"columnNumber": 0,
+		"era": "Bronze Age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Copper Working",
+				"row": 6,
+				"uniques": ["Mining"]
+			}
+			{
+				"name": "Primative Cavalry",
+				"row": 5,
+				"uniques": ["Pack animals"]
+			}
+			{
+				"name": "Writing",
+				"row": 6,
+				"uniques": ["Cave art"]
+			}
+			
+		]
+	},
+
+
 
 ]
