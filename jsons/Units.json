@@ -5,9 +5,9 @@
 	/* Ancient Era */
 	{
 		"name": "Worker",
-		"unitType": "Civilian",
+		"unitType": "Copper Working",
 		"movement": 2,
-		"requiredTech": "Agriculture",
+		"requiredTech": "Sedentary Lifestyle",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
 	},
@@ -16,7 +16,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"requiredTech": "Sedentary Lifestyle ",
+		"requiredTech": "Sedentary Lifestyle",
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
@@ -64,7 +64,6 @@
 		"cost": 45,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	},
 ]
