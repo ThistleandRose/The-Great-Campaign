@@ -26,7 +26,7 @@
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
-    }
+    },
 
 	{
 		"name": "Snow",
@@ -37,4 +37,5 @@
 		"Always Fertility [-1] for Map Generation",
 		"Considered [Undesirable] when determining start locations",
 		]
+		},
 ]
