@@ -20,21 +20,21 @@
 	},
 
 	    {
-		"name": "Great Ming",
-		"leaderName": "Zhu Di",
+		"name": "Portugese Empire",
+		"leaderName": "Jhon II",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "China has been broken, wounded. Ming has finally thrown off its Mongol Overlords, while Oirat and Jurachen polities design the death of the Great Ming. China shall know foreign rule no longer!",
+		"startIntroPart1": "Portugal is a small country compared to her rivals like Castille and France. But her strength is in the sea!",
 		"startIntroPart2": "Sample text.",
-		"declaringWar": "You! We will drive you out like we did the Yuan, and all foreign invaders before!",
-		"attacked": "You dare have the courage to challenge Zhu Di, but no fear, for I will sweep you out of history.",
-		"defeated": "Woe be upon me! i have lost my nation to a foreign peoples. Did we not learn the lessons of our nations youth?",
-		"introduction": "Welcome to the middle kingdom child.",
-		"tradeRequest": "China is a rich and powerful land. Let us agree to this exchange.",
-		"outerColor": [253,253,150],
-		"innerColor": [0,0,0],
+		"declaringWar": "We desire something from you we cannot get through trade. Its just business.",
+		"attacked": "You barbarian dog! we shall sink your ships and salt your soil! loot your cities and strip down your settlements to the last man! ",
+		"defeated": "I guess pride cometh before the fall?",
+		"introduction": "Hello, we come for the purposes of peace, prosperity and trade. provided you prove productive"
+		"tradeRequest": "You must agree. We can both profit from this endevour.",
+		"outerColor": [51,161,195],
+		"innerColor": [255,255,255],
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Nanjing","Beijing","Guilin","Suzhou","Ningbo","Fengyang","Shanhai"]
+		"cities": ["Lisbon","Porto","Sao Paulo","Setuba","Faro","Evora","Goa"]
 	},
 
 
