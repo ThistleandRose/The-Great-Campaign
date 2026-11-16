@@ -22,7 +22,7 @@
 		"techs": [
 			{
 				"name": "Cereal cultivation",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			{
@@ -37,12 +37,12 @@
 			}
 			{
 				"name": "Advanced stone working",
-				"row": 2,
+				"row": 1,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			{
 				"name": "Cave art",
-				"row": 8,
+				"row": 9,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}	
 		]
