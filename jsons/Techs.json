@@ -32,7 +32,7 @@
 			}
 			{
 				"name": "Archery",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			{
@@ -42,7 +42,7 @@
 			}
 			{
 				"name": "Cave art",
-				"row": 9,
+				"row": 10,
 				"prerequisites": ["Sedentary Lifestyle"],
 			}	
 		]
@@ -61,12 +61,12 @@
 			}
 			{
 				"name": "Mining",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Advanced stone working","Cave art"],
 			}	
 			{
 				"name": "Irrigation & Terraforming",
-				"row": 4,
+				"row": 3,
 				"prerequisites": ["Advanced stone working","Cereal cultivation"],
 			}	
 		]
@@ -84,15 +84,27 @@
 				"row": 6,
 				"prerequisites": ["Mining"],
 			}
+
+			{
+				"name": "Masonry",
+				"row": 2,
+				"prerequisites": ["Mining"],
+			}
 			{
 				"name": "Primative Cavalry",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Pack animals"],
 			}
 			{
 				"name": "Writing",
 				"row": 8,
 				"prerequisites": ["Cave art"],
+			}
+
+			{
+				"name": "Sailing",
+				"row": 12,
+				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			
 		]
@@ -114,11 +126,6 @@
 				"name": "Mathematics",
 				"row": 8,
 				"prerequisites": ["Writing"],
-			}
-			{
-				"name": "Masonry",
-				"row": 4,
-				"prerequisites": ["Mining"],
 			}
 			
 		]
@@ -145,6 +152,12 @@
 				"name": "Philosophy",
 				"row": 8,
 				"prerequisites": ["Mathematics"],
+			}
+
+			{
+				"name": "Merchant Fleet",
+				"row": 12,
+				"prerequisites": ["Sedentary Lifestyle"],
 			}
 			
 		]
