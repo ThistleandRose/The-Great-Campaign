@@ -9,7 +9,6 @@
 			{
 				"name": "Sedentary Lifestyle",
 				"row": 6,
-				"quote": "A sedentary lifestyle provides the root that farming and civilization can spring from.",
 				"uniques": ["Starting tech"]
 			}
 		]
@@ -24,9 +23,27 @@
 			{
 				"name": "Agriculture",
 				"row": 6,
-				"quote": "With the beginning of Agriculture, humanity can wrest free of his dependence on the natural world. Bit by bit. ",
 				"prerequisites": ["Sedentary Lifestyle"],
 			}
+			{
+				"name": "Archery",
+				"row": 4,
+				"prerequisites": ["Sedentary Lifestyle"],
+			}
+			{
+				"name": "Astrology",
+				"row": 2,
+				"prerequisites": ["Sedentary Lifestyle"],
+			}
+			{
+				"name": "Cave art",
+				"row": 8,
+				"prerequisites": ["Sedentary Lifestyle"],
+			}
+			
+
+
+		
 		]
 	},
 
