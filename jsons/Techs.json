@@ -157,7 +157,7 @@
 			{
 				"name": "Merchant Fleet",
 				"row": 12,
-				"prerequisites": ["Sedentary Lifestyle"],
+				"prerequisites": ["Sailing"],
 			}
 			
 		]
