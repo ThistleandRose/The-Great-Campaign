@@ -108,7 +108,7 @@
 			{
 				"name": "Bronze smithing",
 				"row": 6,
-				"prerequisites": ["Copper working"],
+				"prerequisites": ["Copper Working"],
 			}
 			{
 				"name": "Mathematics",
