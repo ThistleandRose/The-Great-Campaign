@@ -91,22 +91,4 @@
 		"cities": ["Lisbon","Porto","Sao Paulo","Setuba","Faro","Evora","Goa"]
 	},
 
-	    {
-		"name": "Assyria",
-		"leaderName": "Timur ",
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Portugal is a small country compared to her rivals like Castille and France. But her strength is in the sea!",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "We desire something from you we cannot get through trade. Its just business.",
-		"attacked": "You barbarian dog! we shall sink your ships and salt your soil! loot your cities and strip down your settlements to the last man! ",
-		"defeated": "I guess pride cometh before the fall?",
-		"introduction": "Hello, we come for the purposes of peace, prosperity and trade. provided you prove productive"
-		"tradeRequest": "You must agree. We can both profit from this endevour.",
-		"outerColor": [255,81,106],
-		"innerColor": [255,255,0],
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Lisbon","Porto","Sao Paulo","Setuba","Faro","Evora","Goa"]
-	},	
-
 ]
