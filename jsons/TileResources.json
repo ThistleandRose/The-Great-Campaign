@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Tin",
+		"resourceType": "Strategic",
+		"revealedBy": "Copper Working",
+		"terrainsCanBeFoundOn": ["Hill","Desert"],
+		"production": 1,
+		"improvement": "Mine",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated with weight [39] <in [Hill] tiles>",
+					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>"],
+		"majorDepositAmount": {"sparse": 2, "default": 4 , "abundant": 8},
+		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 4}
+	},
+]
