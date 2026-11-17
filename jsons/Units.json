@@ -71,7 +71,7 @@
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 13,
-		"requiredResource": "Tin", "Copper",
+		"requiredResource": ["Tin", "Copper",]
 		"cost": 56,
 		"requiredTech": "Bronze Smithing",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
