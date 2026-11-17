@@ -118,7 +118,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Bronze smithing",
+				"name": "Bronze Smithing",
 				"row": 6,
 				"prerequisites": ["Copper Working"],
 			}
@@ -141,7 +141,7 @@
 			{
 				"name": "Currency",
 				"row": 6,
-				"prerequisites": ["Bronze smithing", "Mathematics"],
+				"prerequisites": ["Bronze Smithing", "Mathematics"],
 			}
 			{
 				"name": "Construction",
