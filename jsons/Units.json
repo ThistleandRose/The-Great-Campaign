@@ -71,10 +71,9 @@
 		"unitType": "Sword",
 		"movement": 1,
 		"strength": 13,
-		"requiredResource": ["Tin", "Copper"],
 		"cost": 56,
 		"requiredTech": "Bronze Smithing",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", , "Consumes [2] [Copper]", "Consumes [2] [Tin]"],
 		"attackSound": "metalhit"
 	},
 ]
