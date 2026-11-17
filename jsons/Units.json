@@ -84,7 +84,7 @@
 		"strength": 14,
 		"cost": 56,
 		"requiredTech": "Bronze Smithing",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
+		"uniques": ["[+50]% Strength <vs [Light Sword] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
 		"attackSound": "metalhit"
 	},
 ]
