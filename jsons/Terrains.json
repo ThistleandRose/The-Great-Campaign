@@ -88,7 +88,6 @@
             "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
-            "Becomes [Marsh] when adjacent to [River]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	// Terrain features
@@ -121,7 +120,7 @@
 		"movementCost": 3,
 		"unbuildable": true,
 		"defenceBonus": -0.15,
-		"occursOn": ["Grassland"],
+		"occursOn": ["Grassland","Tundra"],
 		"uniques": ["Vegetation",
 					"[-2] to Fertility for Map Generation",
 					"Every [9] tiles with this terrain will receive a major deposit of a strategic resource."],
