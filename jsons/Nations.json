@@ -50,7 +50,7 @@
 		"introduction": "Hello, we come for the purposes of peace, prosperity and trade. provided you prove productive"
 		"tradeRequest": "You must agree. We can both profit from this endevour.",
 		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
+		"innerColor": [212, 175, 55],
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
 		"cities": ["Lisbon","Porto","Sao Paulo","Setuba","Faro","Evora","Goa"]
 	},
