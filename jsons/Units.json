@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "Warrior",
-		"unitType": "Sword",
+		"unitType": "Light Sword",
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
@@ -62,7 +62,6 @@
 		"strength": 11,
 		"cost": 56,
 		"requiredTech": "Copper Working",
-		"obsoleteTech": "Civil Service",
 		"uniques": ["Consumes [1] [Copper]",],
 		"attackSound": "metalhit"
 	},
