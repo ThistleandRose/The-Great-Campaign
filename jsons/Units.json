@@ -55,6 +55,19 @@
 		"attackSound": "arrow"
 	},
 
+		{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Copper Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",,"Consumes [1] [Copper]",],
+		"attackSound": "metalhit"
+	},
+
 	{
 		"name": "Trireme",
 		"unitType": "Melee Water",
@@ -70,7 +83,7 @@
 		"name": "Phalanx",
 		"unitType": "Sword",
 		"movement": 1,
-		"strength": 13,
+		"strength": 14,
 		"cost": 56,
 		"requiredTech": "Bronze Smithing",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
