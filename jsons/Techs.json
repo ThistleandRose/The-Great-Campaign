@@ -127,6 +127,12 @@
 				"row": 8,
 				"prerequisites": ["Writing"],
 			}
+
+			{
+				"name": "The Chariot",
+				"row": 4,
+				"prerequisites": ["Primative Cavalry"],
+			}
 			
 		]
 	},
@@ -145,8 +151,13 @@
 			}
 			{
 				"name": "Construction",
-				"row": 4,
+				"row": 2,
 				"prerequisites": ["Masonry"],
+			}
+			{
+				"name": "Kilms & Furnaces",
+				"row": 4,
+				"prerequisites": ["Masonry","Bronze Smithing"],
 			}
 			{
 				"name": "Philosophy",
@@ -160,6 +171,21 @@
 				"prerequisites": ["Sailing"],
 			}
 			
+		]
+	},
+
+		{
+		"columnNumber": 7,
+		"era": "Iron Age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Iron Working",
+				"row": 4,
+			    "prerequisites": ["Kilms & Furnaces"],
+			}
 		]
 	},
 
