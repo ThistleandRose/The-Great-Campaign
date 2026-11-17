@@ -13,10 +13,10 @@
 	},
 
 	{
-		"name": "Copper",
+		"name": "Iron",
 		"resourceType": "Strategic",
 		"revealedBy": "Copper Working",
-		"terrainsCanBeFoundOn": ["Hill","Mountain"],
+		"terrainsCanBeFoundOn": ["Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
 		"uniques": ["Generated with weight [39] <in [Hill] tiles>",
