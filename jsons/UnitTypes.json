@@ -4,9 +4,20 @@
         "movementType": "Land"
     },
     {
-        "name": "Sword",
+        "name": "Light Sword",
         "movementType": "Land"
     },
+
+    {
+        "name": "Heavy Sword",
+        "movementType": "Land"
+    },
+
+    {
+        "name": "Hybrid",
+        "movementType": "Land"
+    },
+    
     {
         "name": "Gunpowder",
         "movementType": "Land"
