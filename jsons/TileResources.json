@@ -1,4 +1,5 @@
-	// Strategic resources
+[
+// Strategic resources
 	{
 		"name": "Copper",
 		"resourceType": "Strategic",
@@ -24,3 +25,4 @@
 		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+		]
