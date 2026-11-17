@@ -57,14 +57,13 @@
 
 		{
 		"name": "Spearman",
-		"unitType": "Sword",
+		"unitType": "Light Sword",
 		"movement": 2,
 		"strength": 11,
 		"cost": 56,
 		"requiredTech": "Copper Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>",,"Consumes [1] [Copper]",],
+		"uniques": ["Consumes [1] [Copper]",],
 		"attackSound": "metalhit"
 	},
 
@@ -81,7 +80,7 @@
 
 	{
 		"name": "Phalanx",
-		"unitType": "Sword",
+		"unitType": "Heavy Sword",
 		"movement": 1,
 		"strength": 14,
 		"cost": 56,
