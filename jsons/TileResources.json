@@ -15,7 +15,7 @@
 	{
 		"name": "Iron",
 		"resourceType": "Strategic",
-		"revealedBy": "Copper Working",
+		"revealedBy": "Iron Working",
 		"terrainsCanBeFoundOn": ["Hill","Marsh"],
 		"production": 1,
 		"improvement": "Mine",
