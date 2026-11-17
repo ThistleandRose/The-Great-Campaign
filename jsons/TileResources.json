@@ -2,7 +2,7 @@
 	{
 		"name": "Tin",
 		"resourceType": "Strategic",
-		"revealedBy": "Bronze Smelting",
+		"revealedBy": "Bronze Smithing",
 		"terrainsCanBeFoundOn": ["Hill","Flood plains"],
 		"production": 1,
 		"uniques": ["Generated with weight [39] <in [Hill] tiles>",
