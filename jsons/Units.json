@@ -57,7 +57,7 @@
 	},
 
 		{
-		"name": "Spearman",
+		"name": "Spearmen",
 		"unitType": "Light Sword",
 		"movement": 2,
 		"strength": 11,
@@ -90,7 +90,7 @@
 	},
 
 		{
-		"name": "Horseman",
+		"name": "Chalcolithic Cavalary",
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 10,
