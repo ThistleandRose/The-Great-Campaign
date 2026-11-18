@@ -89,19 +89,6 @@
 		"attackSound": "nonmetalhit"
 	},
 
-	{
-		"name": "Spartan Phalanx",
-		"unitType": "Heavy Sword",
-		"uniqueTo": "Sparta",
-		"replaces": "Phalanx",
-		"movement": 1,
-		"strength": 16,
-		"cost": 56,
-		"requiredTech": "Bronze Smithing",
-		"uniques": ["[+50]% Strength <vs [Light Sword] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
-		"attackSound": "metalhit"
-	},
-
 		{
 		"name": "Chalcolithic Cavalary",
 		"unitType": "Mounted",
@@ -112,5 +99,20 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Consumes [1] [Copper]", "Consumes [1] [Horses]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+
+	// Special Units
+
+		{
+		"name": "Spartan Phalanx",
+		"unitType": "Heavy Sword",
+		"uniqueTo": "Sparta",
+		"replaces": "Phalanx",
+		"movement": 1,
+		"strength": 16,
+		"cost": 56,
+		"requiredTech": "Bronze Smithing",
+		"uniques": ["Rough terrain penalty","[+50]% Strength <vs [Light Sword] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
+		"attackSound": "metalhit"
 	},
 ]
