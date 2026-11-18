@@ -38,6 +38,7 @@
 		"strength": 8,
 		"cost": 40,
 		"requiredTech": "Sedentary Lifestyle",
+		"obsoleteTech": "Copper Working",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
