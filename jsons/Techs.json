@@ -127,12 +127,6 @@
 				"row": 8,
 				"prerequisites": ["Writing"],
 			}
-
-			{
-				"name": "The Chariot",
-				"row": 4,
-				"prerequisites": ["Primative Cavalry"],
-			}
 			
 		]
 	},
@@ -186,7 +180,58 @@
 				"row": 4,
 			    "prerequisites": ["Kilms & Furnaces"],
 			}
+
+			{
+				"name": "Seige Machines",
+				"row": 2,
+			    "prerequisites": ["Kilms & Furnaces", "Construction", ],
+			}	
+
+			{
+				"name": "Guilds",
+				"row": 6,
+			    "prerequisites": ["Kilms & Furnaces", "Currency", ],
+			}
+
+			{
+				"name": "Primative Medicine",
+				"row": 8,
+			    "prerequisites": ["Philosiphy"],
+			}	
 		]
 	},
+
+		{
+		"columnNumber": 8,
+		"era": "Iron age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Plate & Chain",
+				"row": 4,
+			    "prerequisites": ["Iron Working"],
+			}
+
+			{
+				"name": "Steel bolts",
+				"row": 2,
+			    "prerequisites": ["Iron Working"],
+			}	
+
+			{
+				"name": "Banking",
+				"row": 6,
+			    "prerequisites": ["Guilds"],
+			}
+
+			{
+				"name": "Chemistry",
+				"row": 8,
+			    "prerequisites": ["Primative Medicine"],
+			}	
+		]
+	},					
 
 ]
