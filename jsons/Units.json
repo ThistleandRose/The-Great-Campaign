@@ -95,7 +95,6 @@
 		"strength": 10,
 		"cost": 75,
 		"requiredTech": "Primative Cavalry",
-		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Consumes [1] [Copper]", "Consumes [1] [Horses]"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
