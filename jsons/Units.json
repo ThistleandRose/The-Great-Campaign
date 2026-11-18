@@ -112,7 +112,7 @@
 		"strength": 16,
 		"cost": 56,
 		"requiredTech": "Bronze Smithing",
-		"uniques": ["Rough terrain penalty","[+50]% Strength <vs [Light Sword] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
+		"uniques": ["[+50]% Strength <vs [Light Sword] units>","Consumes [1] [Copper]", "Consumes [1] [Tin]"],
 		"attackSound": "metalhit"
 	},
 ]
