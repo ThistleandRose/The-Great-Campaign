@@ -18,7 +18,7 @@
 		"revealedBy": "Primative Cavalry",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
-		"improvement": "Stables",
+		"improvement": "Pasture",
 		"uniques": ["Generated with weight [39] <in [Grassland] tiles>","],
 		"majorDepositAmount": {"sparse": 2, "default": 4 , "abundant": 8},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 4}
