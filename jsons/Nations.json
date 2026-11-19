@@ -74,21 +74,22 @@
 	},	
 
 	    {
-		"name": "Athens",
-		"leaderName": "Timur ",
+		"name": "Great Akkad",
+		"leaderName": "Sargon",
 		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Portugal is a small country compared to her rivals like Castille and France. But her strength is in the sea!",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "We desire something from you we cannot get through trade. Its just business.",
-		"attacked": "You barbarian dog! we shall sink your ships and salt your soil! loot your cities and strip down your settlements to the last man! ",
+        "style": "babylon",
+		"startIntroPart1": "Akkad, the first empire, uniting the lands that would become Old Babylon. Uruk, Umma, Ur, Lagash, Ebla, all were swept into the dustbin of history. But Akkad could not keep up. Its successive rulers squandered their advantage, and their enemies plenty, allies none.",
+		"startIntroPart2": "Shall the same happen in this world? Or Shall Akkad rise again, to conquer the Known world?",
+		"declaringWar": "May Inanna bless me as i march upon your Citadels and Ziggurats.",
+		"attacked": "You asked for this. Time to tear down what you have built, and chip away at all you have done.",
 		"defeated": "I guess pride cometh before the fall?",
-		"introduction": "Hello, we come for the purposes of peace, prosperity and trade. provided you prove productive"
+		"introduction": "May Ani and his consort bless you. That is, if we can maintain more then a fragile peace and build something longer lasting."
 		"tradeRequest": "You must agree. We can both profit from this endevour.",
-		"outerColor": [0,0,255],
-		"innerColor": [255,255,255],
+		"outerColor": [117,103,9],
+		"innerColor": [255,221,0],
+		"uniqueName": "The first ever Empire",
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Lisbon","Porto","Sao Paulo","Setuba","Faro","Evora","Goa"]
+		"cities": ["Akkad","Umma","Ur","Lagash","Ebla","Awan","Susa","Uruk"]
 	},
 
 ]
