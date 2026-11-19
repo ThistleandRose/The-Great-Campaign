@@ -184,19 +184,19 @@
 			{
 				"name": "Seige Machines",
 				"row": 2,
-			    "prerequisites": ["Kilms & Furnaces", "Construction", ],
+			    "prerequisites": ["Kilms & Furnaces", "Construction"],
 			}	
 
 			{
 				"name": "Guilds",
 				"row": 6,
-			    "prerequisites": ["Kilms & Furnaces", "Currency", ],
+			    "prerequisites": ["Kilms & Furnaces", "Currency"],
 			}
 
 			{
 				"name": "Primative Medicine",
 				"row": 8,
-			    "prerequisites": ["Philosiphy"],
+			    "prerequisites": ["Philosophy"],
 			}	
 		]
 	},
